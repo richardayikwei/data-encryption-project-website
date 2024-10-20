@@ -1,4 +1,10 @@
-# React + TypeScript + Vite
+# Data encyption project
+A website that will help you do data encryption of simple text. You can both encrypt and decrypt the text as well as set a cipher that you can send to anyone you want to decrypt the text.
+
+## Technologies
+React , TalwindCSS, Typescript and Jest.
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
