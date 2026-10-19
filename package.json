@@ -35,7 +35,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^29.7.0",
     "postcss": "^8.4.47",
-    "tailwindcss": "^3.4.13",
+    "tailwindcss": "^4.3.3",
     "ts-jest": "^29.2.5",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.3",
